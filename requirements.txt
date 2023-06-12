@@ -1,3 +1,5 @@
+onnxruntime-gpu==1.13.1
+
 aiohttp==3.8.1
 asyncer==0.0.2
 click==8.1.3
